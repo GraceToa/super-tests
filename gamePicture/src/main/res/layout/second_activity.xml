@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:text="The Joking Dept 2016"
+            android:textSize="15dp"
+            android:textColor="#FFF"
+            android:padding="6dp"
+            android:background="#B7AEAE"
+            android:layout_marginBottom="80dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imageViewAula"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="35dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+    <Button
+        android:id="@+id/btnBack"
+        android:text="BACK"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:background="@drawable/mybutton"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="430dp"
+        android:layout_marginRight="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</FrameLayout>

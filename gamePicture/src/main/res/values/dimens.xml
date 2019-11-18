@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="ancho">60dp</dimen>
+    <dimen name="alto">60dp</dimen>
+    <dimen name="pequeño">20dp</dimen>
+    <dimen name="mediano">35dp</dimen>
+    <dimen name="grande">50dp</dimen>
+
+</resources>

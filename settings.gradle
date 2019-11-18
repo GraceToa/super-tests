@@ -1,0 +1,2 @@
+include ':gamePicture', ':fragments', ':listview', ':app', ':reciclerview', ':cardview', ':recyclerviewandcardview', ':fruits'
+rootProject.name='My Application'
